@@ -1,0 +1,54 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+10.133.92.91 oracleDev91
+10.133.92.150 oracleDev150
+10.133.92.156 oracleDev156
+10.44.26.19 dbcluster2
+10.44.30.159  jfqzhc
+10.44.26.12  dp12
+10.44.26.13  dp13
+10.44.26.17  dp17
+10.44.26.18  dp18
+10.44.26.46  dp46
+10.44.26.47  dp47
+10.44.26.68  dp68
+10.44.26.69  dp69
+10.44.26.70  dp70
+0.0.0.0 account.jetbrains.com
+
+172.20.61.117 fawmctsphadoop03.test
+172.20.61.118 fawmctsphadoop04.test
+172.20.61.119 fawmctsphadoop05.test
+172.20.61.92 fawmctspmysqlredis.test
+172.20.61.215   fawhqtomcat03.test
+
+#阿里云
+39.106.168.169  qm-dev-cdh1
+39.106.185.3  qm-dev-cdh2
+39.106.130.140  qm-dev-cdh3
+39.106.163.2  qm-dev-redis1
+39.106.178.46  qm-dev-redis2
+39.106.136.77  qm-dev-service1
+39.106.128.198  qm-dev-service2
+39.106.177.233  qm-dev-parse
+47.94.226.101  qm-dev-oracle
+47.94.152.116  qm-dev-nginx
