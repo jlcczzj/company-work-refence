@@ -1,0 +1,109 @@
+liquan
+#EDC2wsx
+https://10.8.8.112
+OPClient-Setup.exe
+堡垒机 用户 songyingliang 新密码 Oracle@qm4
+堡垒机账号：zengxianyu  初始密码：!QAZ2wsx
+
+钛马VPN账号密码
+qiming.dev1  UHUmmsJ6LnRGUHNZeq3EAojG
+qiming.dev2  MKh9KjimN70Tr6Udkd4oApja
+qiming.dev3  xZKJ90j0Gg8ClGKTWlmH8GCT
+
+CDH环境
+生产环境BDA 信息
+http://bda1client03.fawdb.com:7180 
+
+admin/Bd@2016!@#
+
+10.8.24.21	10.8.100.1
+10.8.24.22	10.8.100.2
+10.8.24.23	10.8.100.3
+10.8.24.24	10.8.100.4
+10.8.24.25	10.8.100.5
+10.8.24.26	10.8.100.6
+10.8.23.1	10.8.101.1
+10.8.23.2	10.8.101.2
+10.8.23.3	10.8.101.3
+10.8.23.4	10.8.101.4
+10.8.23.5	10.8.101.5
+10.8.23.6	10.8.101.6
+
+
+ELK 服务器环境
+10.7.65.248 kibana
+10.7.65.89   logstash
+10.7.65.90   elseacher
+
+楼兰数据同步环境
+10.8.100.33
+10.8.100.34
+上报网关
+10.7.95.217
+10.8.100.32
+10.8.100.35
+生产数据库
+10.7.1.23 iot
+admin/Qmjkpt@1
+summary外网
+http://10.8.100.30/summary/rest/ 
+
+http://47.95.124.7/jl/ 
+系统管理员：13811368022
+平台管理员：13011222553
+
+吉林省电动车监控平台
+http://47.95.124.7/jl/ 
+系统管理员：13811368022
+平台管理员：13011222553
+一汽客车管理员：13394493895   密码均为123456 
+
+A2EV服务器
+10.7.1.15
+用户名 A2EV  密码：Qma2ev2017
+http://10.7.64.45:8004/a1ev/ 
+登录名 SUPER  密码 123456
+
+新能源阿里环境：
+http://39.106.128.198/evmp
+admin Qmjkpt@1
+新能源
+正式服务地址：    http://ev.dpartner.com.cn/evmp/
+阿里测试服务地址：http://39.106.128.198/evmp/
+用户：admin
+更改密码 ：!QAZ
+张博群负责的A0EV
+A0EV
+http://pms.unisoect.com:8001/svn/lhsvn/%E5%BC%80%E5%8F%91%E9%83%A8/a0ev
+http://pms.unisoect.com:8001/svn/lhsvn/ 
+
+开发部/a0ev
+zhangboqun
+123456
+生产环境
+10.7.65.249
+领航员
+https://10.133.92.116:8000/svn/fawfleet
+https://202.98.11.79:3840/svn/fawfleet
+
+xuhuan/xh-123456
+
+领航员数据库
+10.7.95.145
+wangyulong/wyl@2018qm
+
+#阿里云子账号
+登录地址：https://signin.aliyun.com
+用户名：qm_dev1@qimingxinxi 
+密码：Qmdev2018!@#
+
+ELK服务器
+http://10.7.65.248
+10.7.65.89
+10.7.65.90
+10.7.65.248
+    新能源
+    正式服务地址：    http://ev.dpartner.com.cn/evmp/
+    阿里测试服务地址：http://39.106.128.198/evmp/
+    用户：admin
+    更改密码 ：!QAZ
